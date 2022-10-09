@@ -12,3 +12,17 @@
             
 ## Step-03: Install plugins
 ## Step-04: Download & Place driver executable files
+
+
+## Step-05: 
+            a) Create Folder Structures (Feature, Report, Driver, Locators, Config, Screenshots)
+            b) Package &  Folder structures:
+                        - Step Definition
+                        - Base
+                        - Pages
+                        - Utilities
+                        - Runner
+                        - Assertions & Actions
+                        
+
+
