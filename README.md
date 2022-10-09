@@ -17,12 +17,12 @@
 ## Step-05: 
             a) Create Folder Structures (Feature, Report, Driver, Locators, Config, Screenshots)
             b) Package &  Folder structures:
-                        - Step Definition
-                        - Base
-                        - Pages
-                        - Utilities
-                        - Runner
-                        - Assertions & Actions
+                        - Step Definition: Step code will be placed here
+                        - Base: Browser related codes will be here
+                        - Pages: Page Object Model codes go here
+                        - Utilities: Read file, Read locators will be here
+                        - Runner: Execution of the test
+                        - Assertions & Actions: Comparison & Ctions along with performing activities codes
                         
 
 
